@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... particle physics, quantum mechanics, and programming. 
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... the programming for Exploding Bacon
-- 😄 Pronouns: ... he / him are my preferred. But anything is okay. 
+- 😄 Pronouns: He / him are my preferred. But anything is okay. 
 - ⚡ Fun fact: ... uhhhhhhh I will add one later. 
 
 <!---
