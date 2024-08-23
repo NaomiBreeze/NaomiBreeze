@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NaomiBreeze 
-- 👀 I’m interested in ... particle physics, quantum mechanics, and programming. 
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... the programming for Exploding Bacon
+- 👀 I’m interested in particle physics, quantum mechanics, and programming. 
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on the programming for Exploding Bacon.
 - 😄 Pronouns: He / him are my preferred. But anything is okay. 
-- ⚡ Fun fact: ... uhhhhhhh I will add one later. 
+- ⚡ Fun fact: uhhhhhhh I will add one later. 
 
 <!---
 NaomiBreeze/NaomiBreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
