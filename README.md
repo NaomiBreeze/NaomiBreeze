@@ -2,7 +2,7 @@
 - 👀 I’m interested in particle physics, quantum mechanics, and programming. 
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on the programming for Exploding Bacon.
-- 😄 Pronouns: He / him
+- 😄 Preferred pronouns: He / him or she / her.
 
 <!---
 NaomiBreeze/NaomiBreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
